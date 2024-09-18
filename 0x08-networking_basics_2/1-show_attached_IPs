@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Display active IPv4 addresses on the machine
 
 # Use `ip` command to list IP addresses and filter for active IPv4 ones
